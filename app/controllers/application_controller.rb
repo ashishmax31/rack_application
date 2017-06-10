@@ -1,0 +1,3 @@
+def favicon
+[""]
+end
